@@ -29,7 +29,7 @@ there are three areas of interest:
 
 - Contributions
 
-From the publisher-perspective,
+ From the publisher-perspective,
 the primary area of interest is onboarding.
 
 ## Browser Onboarding
